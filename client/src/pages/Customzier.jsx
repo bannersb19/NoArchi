@@ -134,7 +134,7 @@ const Customzier = () => {
 					</motion.div>
           
 
-          <a href='https://rzp.io/i/2A6OBig' target='_blank'>
+          <a href='https://rzp.io/l/tRMdz7Sm0Y' target='_blank'>
             <div className="absolute bottom-20 right-5 cursor-pointer z-10 text-white bg-black p-4 rounded">
               BUY
             </div>
